@@ -1,0 +1,14 @@
+{
+  parser: "babel-eslint",
+  "plugins": [
+    "es5",
+    "react"
+  ],
+  "extends": [
+    "eslint-config-airbnb-es5",
+    "plugin:es5/no-es2015"
+  ],
+  "rules": {
+    "es5/no-arrow-functions": "error"
+  }
+}

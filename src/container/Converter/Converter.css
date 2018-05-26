@@ -1,0 +1,50 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+.container {
+    padding: 20px;
+}
+
+.timestampCol {
+    text-align:center;
+}
+.timestampContainer {
+    display: inline;
+}
+
+.timestampLabel {
+
+}
+
+.timestamp {
+    width: 150px;
+    margin-left: 15px;
+}
+
+.timestampUnit {
+    width: 70px;
+    margin-left: 10px;
+
+}
+
+.timeContainer {
+    margin: 15px;
+}
+
+.timeItemContainer {
+    padding: 5px;
+}
+
+.timezoneLabel {
+    width: 60px;
+    display: inline-block;
+}
+
+.datePicker {
+    width: 120px;
+    margin-left: 10px;
+}
+
+.timePicker {
+    width: 110px;
+    margin-left: 10px;
+}

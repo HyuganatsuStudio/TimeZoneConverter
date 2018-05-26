@@ -1,0 +1,35 @@
+@import '../../../node_modules/antd/dist/antd.css';
+
+.app {
+    position:  absolute;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #f0f2f5;
+}
+
+.container {
+    padding: 20px 15px 20px 15px;
+}
+.contentContainer {
+    margin: 0 0 0 15px;
+
+}
+
+
+.header {
+    background: #fff;
+    padding: 0;
+}
+
+.content {
+    background-color: white;
+    height: 100%;
+    min-height: 350px;
+}
+
+.footer {
+    text-align: center;
+}
